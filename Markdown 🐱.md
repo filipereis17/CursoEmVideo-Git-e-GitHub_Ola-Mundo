@@ -50,3 +50,4 @@ Repositório com todas os emojis feito pelo perfil [ikatyang](https://github.com
 
 Emojis para título da Issue no site [Emojipedia](https://emojipedia.org/)
 
+Como diria #ganhanotos. 
