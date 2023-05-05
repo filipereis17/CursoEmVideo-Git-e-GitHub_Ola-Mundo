@@ -44,3 +44,9 @@ else:
     print(f'O valor {num} é ÍMPAR')
 
 ```
+
+Olá, pequeno Gafanhoto 🖖
+Repositório com todas os emojis feito pelo perfil [ikatyang](https://github.com/ikatyang/emoji-cheat-sheet).
+
+Emojis para título da Issue no site [Emojipedia](https://emojipedia.org/)
+
