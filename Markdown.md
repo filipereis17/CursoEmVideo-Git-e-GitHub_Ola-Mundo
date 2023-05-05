@@ -20,3 +20,6 @@ Lista de tarefas:
 - [x] Criar lista
 - [ ] criar tarefas
 - [x] marcar tarefa
+
+
+Octocat baixado do site [Octodex](https://octodex.github.com/daftpunktocat-thomas/)![daftpunktocat-thomas-200p](https://user-images.githubusercontent.com/52473082/236475459-7204d988-5723-4910-9112-4002da08f1fd.gif)
